@@ -17,6 +17,7 @@ struct ScanListView: View {
   }
 }
 
+
 struct ScanListView_Previews: PreviewProvider {
     static var previews: some View {
         ScanListView()
